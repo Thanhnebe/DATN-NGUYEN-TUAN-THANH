@@ -1,0 +1,29 @@
+.category-list ul {
+    display: none;
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  
+  /* Show child categories on hover */
+  .category-list li:hover > ul {
+    display: block;
+  }
+  
+  /* Style for nested lists */
+  .category-list li {
+    position: relative;
+  }
+  
+  /* Optional: Add padding and style for nested items */
+  .category-list li > a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .category-list ul {
+    padding-left: 20px;
+  }
+  

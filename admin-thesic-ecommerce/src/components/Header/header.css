@@ -1,0 +1,24 @@
+.header {
+  color: #fff; 
+}
+
+.header .navbar {
+  background-color: #74DBEF;
+}
+
+.navbar-brand .brand-text {
+  color: #fff; 
+}
+
+.nav-menu .nav-link {
+  color: #fff; 
+}
+
+.nav-menu .nav-link.logout {
+  background-color: #796AEE; /* Darker orange for logout button */
+  border-radius: 5px; /* Rounded corners for the logout button */
+}
+
+.nav-menu .nav-link.logout:hover {
+  background-color: #6451f1; /* Lighter orange on hover */
+}

@@ -1,0 +1,47 @@
+
+.slick-arrow slick-prev {
+  background: black !important;
+}
+
+.slick-prev,
+.slick-next {
+  z-index: 1;
+  background: var(--primary-color) !important;
+  font-size: 20px !important;
+  font-family: initial;
+  width: 30px !important;
+  height: 30px !important;
+  border-radius: 15px !important;
+}
+
+.slick-next {
+  right: -35px;
+}
+
+.fix-ml {
+  margin-left: 2.5rem!important;
+}
+
+.fix-img-div-new {
+  height: 250px !important;
+  width: auto;
+  overflow: hidden;
+  text-align: center;
+}
+.fix-img-new {
+  height: 90%;
+  width: 80% !important;
+  object-fit: contain;
+}
+
+.product-total-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+}
+
+.grid-item {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}

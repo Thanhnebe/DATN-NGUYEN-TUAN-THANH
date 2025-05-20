@@ -1,0 +1,53 @@
+/* src/App.css */
+.chat-popup {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 350px;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 12px;
+  z-index: 9999;
+}
+
+.chat-messages {
+  max-height: 200px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+}
+
+.chat-message {
+  padding: 5px;
+  background-color: #f1f1f1;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+input {
+  width: calc(100% - 80px);
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.ic-mess-fit {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  z-index: 9999;
+  cursor: pointer;
+}
+
+.btn-send-message {
+  margin-left: 10px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}

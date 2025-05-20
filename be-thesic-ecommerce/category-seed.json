@@ -1,0 +1,353 @@
+[
+  {
+    "nameCategory": "Son môi",
+    "image": "https://kyo.vn/wp-content/uploads/2020/09/top-5-mau-son-mac.jpg",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.733Z"
+  },
+  {
+    "nameCategory": "Chăm sóc da",
+    "image": "https://medlatec.vn/media/11026/content/20210511_mat-na-dau-tay-sua-chua-khong-duong.jpg",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.733Z"
+  },
+  {
+    "nameCategory": "Thực phẩm chức năng",
+    "image": "https://suckhoedoisong.qltns.mediacdn.vn/Images/quangcao/2018/01/25/suckhoedoisong.vn-_Tin_thng-_Thng_o.jpg",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.733Z"
+  },
+  {
+    "nameCategory": "Chăm sóc cơ thể",
+    "image": "https://mint07.com/wp-content/uploads/2019/07/routine-cham-soc-co-the-mua-he2.jpg",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.733Z"
+  },
+  {
+    "nameCategory": "Son thỏi",
+    "image": "https://nguyenlieulammypham.com.vn/wp-content/uploads/2015/10/thoi-son-dong-cao-cap.jpg",
+    "parent": "Son môi",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.798Z"
+  },
+  {
+    "nameCategory": "Trang điểm",
+    "image": "https://file.hstatic.net/200000073977/article/co-trang-diem-mat_7cfe329cdd1a469f988e6f721033b50c.png",
+    "parent": "Trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.864Z"
+  },
+  {
+    "nameCategory": "Son dưỡng",
+    "image": "https://product.hstatic.net/1000025647/product/son-duong-dior-001-pink_1024x1024.png",
+    "parent": "Son môi",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.861Z"
+  },
+  {
+    "nameCategory": "Trang điểm mắt",
+    "image": "https://kbeauty.fpt.edu.vn/wp-content/uploads/2020/04/hoc-trang-diem-chuyen-nghiep-o-dau-uy-tin-va-chat-luong-4.jpg",
+    "parent": "Trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.871Z"
+  },
+  {
+    "nameCategory": "Trang điểm mặt",
+    "image": "https://bloganchoi.com/wp-content/uploads/2019/09/kiem-tra-lop-trang-diem.jpg",
+    "parent": "Trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.888Z"
+  },
+  {
+    "nameCategory": "Làm sạch",
+    "image": "https://drvitamin.net/wp-content/uploads/2021/05/cham-soc-da-mat-cho-nguoi-lam-ca-dem-1_optimized.jpg",
+    "parent": "Chăm sóc da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.891Z"
+  },
+  {
+    "nameCategory": "Dưỡng da",
+    "image": "https://thanhnien.mediacdn.vn/Uploaded/dieutrang-qc/2021_10_22/mai-han-duong-am-1-8164.jpeg",
+    "parent": "Chăm sóc da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.895Z"
+  },
+  {
+    "nameCategory": "Trị sẹo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F20221119_Thuoc-boi-tri-seo-Contractubex.jpg?alt=media&token=9b9a088f-d354-4bdc-8824-c0badf426ed5",
+    "parent": "Đặc trị",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:15:54.279Z"
+  },
+  {
+    "nameCategory": "Đặc trị",
+    "image": "https://phyrisvietnam.vn/wp-content/uploads/2022/08/2-cham-soc-da-mun.jpg",
+    "parent": "Chăm sóc da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-03T10:39:23.913Z"
+  },
+  {
+    "nameCategory": "Trị mụn",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fthuoc-tri-mun-klenzit-c.jpg?alt=media&token=4d6fb2d7-2359-4508-9279-c41164a5bd57",
+    "parent": "Đặc trị",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:16:35.315Z"
+  },
+  {
+    "nameCategory": "Mặt nạ ngủ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2FMat-na-ngu-Laneige-Water-Sleeping-Mask-EX-5.jpg?alt=media&token=fb8abeb9-ad79-438c-827b-77e85f2f4e8c",
+    "parent": "Mặt nạ",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:10:32.714Z"
+  },
+  {
+    "nameCategory": "Mặt nạ rửa",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F1688435531625-mat-na-i-m-from-lam-diu-va-thai-doc-da-mugwort-mask-30g-5.jpeg?alt=media&token=30a57fb1-199b-45f3-8eb0-cea8c64defc3",
+    "parent": "Mặt nạ",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:11:04.946Z"
+  },
+  {
+    "nameCategory": "Nước hoa hồng Toner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fimages.jpg?alt=media&token=15511b6a-3808-4741-9bc2-bc7f4cb58238",
+    "parent": "Dưỡng da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:11:37.845Z"
+  },
+  {
+    "nameCategory": "Kem dưỡng",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fh2-5874.jpg?alt=media&token=1b438dc8-1fdd-4cf0-a4aa-9e91925e1c80",
+    "parent": "Dưỡng da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:12:11.762Z"
+  },
+  {
+    "nameCategory": "Serum/ Tinh chất",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fserum-b5-goodndoc-2-1.jpg?alt=media&token=bdd3ed9f-8f01-45b2-8d9c-5dd02b50ab8b",
+    "parent": "Dưỡng da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:14:08.586Z"
+  },
+  {
+    "nameCategory": "Sữa tắm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fsua-tam-enchanteur-sach-khuan-huong-charming-650g-thumb-600x600.jpg?alt=media&token=374a3a14-8c6e-4f4d-85e6-1f3011c0c84a",
+    "parent": "Làm sạch cơ thể",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:08:38.419Z"
+  },
+  {
+    "nameCategory": "Dụng cụ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F8b88654e-ad78-4ec3-8cb0-3212f6d5e087.webp?alt=media&token=8619815d-10ea-428c-ba0b-bde1a5961270",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:09:09.094Z"
+  },
+  {
+    "nameCategory": "Mặt nạ giấy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fhuong-dan-cach-lam-mat-na-giay-don-gian-cho-tung-loai-da-202111150700380444.jpg?alt=media&token=9339a868-5d07-4dc6-a6ef-2b88726ebcf4",
+    "parent": "Mặt nạ",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:09:44.077Z"
+  },
+  {
+    "nameCategory": "Kích mí",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fcach-dan-mi-mat.jpg?alt=media&token=de44aaf3-5d2e-4d56-a0e2-9553f9c62dfa",
+    "parent": "Dụng cụ trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:02:39.068Z"
+  },
+  {
+    "nameCategory": "Nước hoa nữ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2FNuoc-Hoa-Nu-Chanel-Chance-Eau-Tendre-EDP.jpg?alt=media&token=a1647c8d-2cd3-4dc5-8814-838a0f40757c",
+    "parent": "Nước hoa",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:00:27.321Z"
+  },
+  {
+    "nameCategory": "Dụng cụ trang điểm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F10-bo-trang-diem-ca-nhan-day-du-de-dung-cho-nguoi-moi-bat-dau-202303221103316086.jpg?alt=media&token=db552673-1dee-400d-9428-a9a2a8feb636",
+    "parent": "Dụng cụ",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:03:10.895Z"
+  },
+  {
+    "nameCategory": "Cọ trang điểm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fset-6-co-trang-diem-focallure.jpg?alt=media&token=c13791aa-74ac-4ada-af7e-2d20a64edac1",
+    "parent": "Dụng cụ trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:03:41.220Z"
+  },
+  {
+    "nameCategory": "Xà phòng",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fxb%202.jpg?alt=media&token=17ba8394-3d6b-4966-8c96-fe0ce58345e7",
+    "parent": "Làm sạch cơ thể",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:04:07.099Z"
+  },
+  {
+    "nameCategory": "Dụng cụ chăm sóc da",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fdung-cu-cham-soc-da-mat-anh-dai-dien_ed2b7d296cf4493ab6ac0a0d83a6bf83.webp?alt=media&token=6c80babe-1995-4342-bb61-fecaca6ef715",
+    "parent": "Dụng cụ",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:04:43.328Z"
+  },
+  {
+    "nameCategory": "Mi giả",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F20210415_C9TEs3hWpRg1hGsBMup8t4in.jpg?alt=media&token=c8463745-92c8-4685-9b35-2c413e980b79",
+    "parent": "Dụng cụ trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:05:15.236Z"
+  },
+  {
+    "nameCategory": "Kẹp mi",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fshiseido-1.jpg?alt=media&token=723a88e9-8295-4dee-8caf-1a25f024f2cf",
+    "parent": "Dụng cụ trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:05:44.443Z"
+  },
+  {
+    "nameCategory": "Son kem",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fson-kem-li-lip-blurrism-long-lasting-matte-fmgt.jpg?alt=media&token=2f9aea17-bb76-4e0d-a50b-58b235a7bf94",
+    "parent": "Son môi",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:06:14.887Z"
+  },
+  {
+    "nameCategory": "Bông tẩy trang",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fbong-tay-trang-cotton-pads-1.webp?alt=media&token=c87889a7-c5f3-4315-980f-d85d5967eb1b",
+    "parent": "Dụng cụ trang điểm",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:06:40.860Z"
+  },
+  {
+    "nameCategory": "Nước hoa nam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2FNuoc-Hoa-Nam-Chanel-Bleu-de-Chanel-EDP.jpg?alt=media&token=fdcfef6a-7bc1-42ba-8f42-5682eafc2839",
+    "parent": "Nước hoa",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:07:08.331Z"
+  },
+  {
+    "nameCategory": "Nước hoa",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2FNuoc-Hoa-Nu-Chanel-Coco-Mademoiselle-Intense.jpg?alt=media&token=0f99c1a1-6d98-4c30-921a-fbd32553c10c",
+    "parent": null,
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:07:40.460Z"
+  },
+  {
+    "nameCategory": "Tẩy da chết body",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fda-sang-khoe-tuyet-doi-voi-5-cach-tay-te-bao-chet-toan-than-cuc-chuan-5.jpg?alt=media&token=9fd9d7c8-7421-4458-8783-d854e80d75d9",
+    "parent": "Làm sạch cơ thể",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.734Z",
+    "updatedAt": "2024-09-08T05:08:09.312Z"
+  },
+  {
+    "nameCategory": "Tẩy trang",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Ftay-trang-9-1694569164377246412440.webp?alt=media&token=1ff240b3-336c-428e-a0c0-c7ea1c7f3044",
+    "parent": "Làm sạch",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:12:44.457Z"
+  },
+  {
+    "nameCategory": "Sửa rửa mặt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2F4901872471614-sua-rua-mat-tri-mun-senka-perfect-whip-medicated-120g(1).jpg?alt=media&token=d26c0a7e-ef49-4fee-a85a-a1c3e72e9e66",
+    "parent": "Làm sạch",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:13:30.938Z"
+  },
+  {
+    "nameCategory": "Làm sạch cơ thể",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fimages%20(1).jpg?alt=media&token=020e83be-8968-4371-9dab-55d201aeb5e4",
+    "parent": "Chăm sóc cơ thể",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:15:13.505Z"
+  },
+  {
+    "nameCategory": "Mặt nạ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/stoneshop-c41a0.appspot.com/o/images%2Fhuong-dan-cach-lam-mat-na-giay-don-gian-cho-tung-loai-da-202111150700380444.jpg?alt=media&token=9dc5616c-2ad8-4546-b368-1be44543d8d3",
+    "parent": "Chăm sóc da",
+    "isActive": true,
+    "description": null,
+    "createdAt": "2024-09-03T10:39:23.733Z",
+    "updatedAt": "2024-09-08T05:15:28.782Z"
+  }
+]

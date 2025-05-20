@@ -1,0 +1,25 @@
+.vnpay-button {
+    display: flex;
+    align-items: center; /* Vertically center the items in the button */
+    background-color: #f9a825; /* VNPay yellow color */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+    border-radius: 4px; /* Round the corners of the button */
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Make text bold */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s; /* Smooth transition for background color change */
+    text-align: center; /* Center the text */
+  }
+  
+  .vnpay-button:hover {
+    background-color: #f57f17; /* Darker yellow when hovering */
+  }
+  
+  .vnpay-logo {
+    width: 24px; /* Adjust logo width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Space between logo and text */
+  }
+  
